@@ -48,7 +48,7 @@ while True:
 <img width="676" height="538" alt="image" src="https://github.com/user-attachments/assets/3d0a8e13-458d-4dab-8668-e6d6d8bc427e" />
 
 #### Client side
-
+<img width="615" height="631" alt="image" src="https://github.com/user-attachments/assets/9005c51d-973a-4b4b-8aa3-d8b35be97d3e" />
 
 
 ## PROGRAM - RARP
