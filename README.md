@@ -85,6 +85,7 @@ while True:
 
 
 #### Client side
+<img width="642" height="588" alt="image" src="https://github.com/user-attachments/assets/6599cdbe-0c1b-417b-b825-e13985757920" />
 
 
 ## RESULT
