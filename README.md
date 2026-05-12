@@ -81,6 +81,7 @@ while True:
 
 ## OUPUT -RARP
 #### Server side
+<img width="685" height="541" alt="image" src="https://github.com/user-attachments/assets/46fe73c5-11bd-4ca1-8641-9747a269e091" />
 
 
 #### Client side
