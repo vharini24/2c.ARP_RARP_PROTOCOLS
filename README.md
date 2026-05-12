@@ -44,6 +44,11 @@ while True:
 ```
 ## OUPUT - ARP
 
+#### Sever side
+<img width="676" height="538" alt="image" src="https://github.com/user-attachments/assets/3d0a8e13-458d-4dab-8668-e6d6d8bc427e" />
+
+#### Client side
+
 
 
 ## PROGRAM - RARP
@@ -75,6 +80,10 @@ while True:
 ```
 
 ## OUPUT -RARP
+#### Server side
+
+
+#### Client side
 
 
 ## RESULT
